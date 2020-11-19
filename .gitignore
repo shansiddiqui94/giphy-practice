@@ -1,0 +1,6 @@
+# Purpose of gitIgnore it for git to ignore the file, so no one can see your API key,
+# While .env is a security features, they go hand in hand
+.env
+node_modules
+dist
+.cache
